@@ -23,8 +23,13 @@
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shubham-1304&theme=radical&show_icons=true&count_private=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&line_height=33&hide_rank=true" alt="Shubham's github stats"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham-1304&show_icons=true&locale=en&layout=compact" alt="shubham-1304" /></p>
+<p align="center">
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham-1304&show_icons=true&locale=en&layout=compact" alt="shubham-1304" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubham-1304&show_icons=true&locale=en" alt="shubham-1304" /></p>
+<p align="center">
+   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubham-1304&show_icons=true&locale=en" alt="shubham-1304" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-1304&" alt="shubham-1304" /></p>
+<p align="center">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-1304&" alt="shubham-1304" />
+</p>
