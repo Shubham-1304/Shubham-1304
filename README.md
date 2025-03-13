@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shubham Jhunjhunwala</h1>
-<h3 align="center">A passionate android developer and coder.</h3>
+<h3 align="center">App developer.</h3>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently working as **Flutter Developer**
 
-- 👯 I’m looking to collaborate on **Android Development**
+- 👯 I’m looking to collaborate on **Cross-platform app development**
 
 - 📫 How to reach me **shubhamjhunjhunwala25@gmail.com**
 
