@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Jhunjhunwala</h1>
-<h3 align="center">App developer.</h3>
+<h3 align="center">App developer</h3>
 
 - 🌱 I’m currently working as **Flutter Developer**
 
