@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently working as **Flutter Developer**
 
-- 👯 I’m looking to collaborate on **Cross-platform app development**
+- 👯 I’m looking to collaborate on **Cross-platform app development & backend development**
 
 - 📫 How to reach me **shubhamjhunjhunwala25@gmail.com**
 
